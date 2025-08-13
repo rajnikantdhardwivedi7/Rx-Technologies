@@ -79,8 +79,8 @@ const Footer = () => {
               Rx Technologies provides an end-to-end platform for the creation and deployment of AI-powered smart sensor devices, giving customers 100% ownership while handling the complete technological development.
             </p>
             <p className="text-gray-300 mb-6">
-              Village Ramwapur Dubey, Bansi, Siddharth Nagar<br />
-              Uttar Pradesh, India
+              Golf Course Rd, DLF Golf Course, Sector 42<br />
+              Gurugram, Haryana 122009
             </p>
             <div className="flex space-x-4">
               <a 
